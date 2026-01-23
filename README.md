@@ -1,3 +1,4 @@
 # Welcome
 
-This is me and these are the things I do!
+## About
+Currently a senior at UC Davis majoring in Computer Engineering.
